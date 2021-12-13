@@ -1,0 +1,30 @@
+.pop-up {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #E3CEA1;
+  border: 2px solid #ECB60E;
+  border-radius: 10px;
+  width: 200px;
+  height: 100px;
+}
+
+.pop-up h3 {
+  color: #52430C;
+  font-size: 16;
+  
+}
+
+.pop-up p {
+  color: lightgray;
+  font-size: 14;
+}
+
+.container {
+  width: 78%;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  
+}
