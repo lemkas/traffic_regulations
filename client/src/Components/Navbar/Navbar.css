@@ -27,7 +27,8 @@ header {
 .logo {
     cursor: pointer;
     align-self: baseline;
-    color: yellow;
+    height: 40px;
+    width: 40px;
     
     
 }

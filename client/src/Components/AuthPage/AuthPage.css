@@ -26,6 +26,12 @@
     align-items: center;
 }
 
+.button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .register {
     height: 500px;
 }

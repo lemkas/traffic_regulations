@@ -11,6 +11,7 @@ export default function Input(props) {
                 name={props.name} 
                 value={props.value} 
                 id={props.value}
+                onChange={props.onChange}
                 required
             />
 
